@@ -13,7 +13,7 @@ public class InventarioVista {
         this.scanner = new Scanner(System.in);
     }
 
-    /***+
+    /*********++++
      * Imprime el menú de opciones y retorna la opción seleccionada por el usuario.
      * @return El número de la opción seleccionada.
      */
