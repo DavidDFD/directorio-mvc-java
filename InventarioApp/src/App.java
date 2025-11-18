@@ -19,5 +19,6 @@ public class App {
         
         //  Llamar a `controlador.iniciar()`.
         controlador.iniciar(); 
+        // Main activacion de inventario
     }
 }
