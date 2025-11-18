@@ -101,6 +101,5 @@ public class Inventariocontroller {
         } else {
             vista.mostrarMensaje("ERROR: No se encontró ningún producto con el SKU: " + sku + " para eliminar.");
         }
-        //prueba
     }
 }
